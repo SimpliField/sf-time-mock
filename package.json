@@ -12,11 +12,11 @@
     "cli": "env NPM_RUN_CLI=1"
   },
   "keywords": [
-    "REST",
-    "HTTP",
-    "server",
-    "web",
-    "services"
+    "time",
+    "mock",
+    "date",
+    "now",
+    "timestamp"
   ],
   "author": "Nicolas Froidure",
   "license": "MIT",
