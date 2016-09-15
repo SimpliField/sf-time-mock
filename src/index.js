@@ -15,7 +15,7 @@ function initTimeMock() {
    * @throws {YError} E_TIME_ENDED exception when no timestamp available
    */
   function timeStub() {
-    if(times[0] && 1 > times[0].n) {
+    if(times[0] && 1 > times[0].n) { // eslint-disable-line
       times.shift();
     }
     if(!times.length) {
