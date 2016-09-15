@@ -30,7 +30,7 @@
   "homepage": "https://github.com/SimpliField/sf-time-mock",
   "devDependencies": {
     "coveralls": "^2.11.2",
-    "eslint": "^3.4.0",
+    "eslint": "^3.5.0",
     "eslint-config-simplifield": "^4.1.1",
     "istanbul": "^0.4.5",
     "jsdoc-to-markdown": "^1.1.1",
